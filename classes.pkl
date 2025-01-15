@@ -1,0 +1,4 @@
+���       ]�(�Location��classes��courseDuration��courses��exams��
+facilities��fee��
+funActivities��goodbye��	greetings��hours��invalid��name��semDuration��	semesters��studentRequirements��
+teachingStyle��thanks�e.
